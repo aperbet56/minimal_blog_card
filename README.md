@@ -6,7 +6,7 @@ Création du projet : Minimal blog card en HTML5 et CSS3.
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/minimal_blog_card/
 
 ## Projet développé avec
 
