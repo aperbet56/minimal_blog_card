@@ -1,5 +1,7 @@
 ## MINIMAL BLOG CARD
 
+![Design preview for the project](./img/preview.png)
+
 ## Le challenge
 
 Création du projet : Minimal blog card en HTML5 et CSS3.
